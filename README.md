@@ -15,7 +15,7 @@
 2) In total there were 5 main files each one of those needs to be send to different stakeholders
 3) This macros help us create 5 different mails in Outlook with required attachments and multiple stakeholders without any manual intervention
 
-**Lastly these 2 Macros were combine togetther to get the final results Automatically**
+**Lastly these 2 Macros were combine together to get the final results Automatically**
 
 
 
